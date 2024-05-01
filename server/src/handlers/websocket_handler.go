@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/TadayoshiOtsuka/simple_chat/src/domain"
+	"github.com/Jibneru/chat/src/domain"
 	"github.com/gorilla/websocket"
 )
 

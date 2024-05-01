@@ -1,4 +1,4 @@
-FROM golang:1.18.3
+FROM golang:1.18
 ENV TZ=Asia/Tokyo
 
 ENV CGO_ENABLED=0

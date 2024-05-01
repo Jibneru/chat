@@ -1,4 +1,4 @@
-module github.com/TadayoshiOtsuka/simple_chat
+module github.com/Jibneru/chat
 
 go 1.18
 

@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/TadayoshiOtsuka/simple_chat/src/domain"
-	"github.com/TadayoshiOtsuka/simple_chat/src/handlers"
-	"github.com/TadayoshiOtsuka/simple_chat/src/services"
+	"github.com/Jibneru/chat/src/domain"
+	"github.com/Jibneru/chat/src/handlers"
+	"github.com/Jibneru/chat/src/services"
 )
 
 func main() {

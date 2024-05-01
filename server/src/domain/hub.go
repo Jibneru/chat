@@ -3,7 +3,7 @@ package domain
 import (
 	"context"
 
-	"github.com/TadayoshiOtsuka/simple_chat/src/services"
+	"github.com/Jibneru/chat/src/services"
 )
 
 type Hub struct {
